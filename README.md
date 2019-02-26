@@ -8,6 +8,7 @@ Start a terminal window (or a DOS window for those on windows) and simply type '
 Where packagename is the repository you want to install
 
 From memory, you should at least have the following installed;
+jupyter
 numpy
 scipy
 tabulate
